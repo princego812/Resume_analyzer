@@ -1,6 +1,6 @@
 streamlit
-nltk
-scikit-learn
 pandas
+scikit-learn
+nltk
 pypdf
 python-docx
